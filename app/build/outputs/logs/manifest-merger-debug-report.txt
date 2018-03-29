@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:7:22-76
+uses-feature#android.hardware.bluetooth
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:9:5-63
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:9:19-60
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:13:22-76
+application
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:14:5-40:19
+MERGED from [com.android.support:design:25.3.1] /Users/vinayasd/.android/build-cache/5fdac9776be4ceaa3e175992b10823c5c25306a9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/vinayasd/.android/build-cache/9552056de2e8cd552ff81bce178adab3153c7f63/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/vinayasd/.android/build-cache/f40e0a9e5c5ec04f8dbcfc7c17e29f758065ba40/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/vinayasd/.android/build-cache/cfce146785b0c377cd856bb5d202914a8af44697/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/vinayasd/.android/build-cache/916b277fbf7e43de3d5e4395b02b536a276f1b7a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/vinayasd/.android/build-cache/1a9c10d9f109ba4f23d204b933d3864956413bd2/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/vinayasd/.android/build-cache/c75292fa150c9f218361738e8a8d102a350bc743/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/vinayasd/.android/build-cache/c76cfa0de4e2dec8ebf1e904fe03fd92cf66d0c5/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/vinayasd/.android/build-cache/57eac75051369fcb13b9681e03778fb6b87434a0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/vinayasd/.android/build-cache/b21df4723bc40874bf2255cb2056e8398f2f1723/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/vinayasd/.android/build-cache/d9e702cd28bbce437738a62bc08ceede439e271b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/vinayasd/.android/build-cache/671f90f2d5021ad1ba79775556e88f44727c6c38/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/vinayasd/.android/build-cache/b58bb4bbb30b160e92b45814ecf10e54d2dcbd4b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/vinayasd/.android/build-cache/39afe5ab4187dabd6962844be6c01ab807dafb3a/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.example.vinayasd.gatepass.MainActivity
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:24:27-74
+meta-data#com.google.android.gms.version
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:31:9-33:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/vinayasd/.android/build-cache/c76cfa0de4e2dec8ebf1e904fe03fd92cf66d0c5/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:33:13-66
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:32:13-58
+activity#com.example.vinayasd.gatepass.Main2Activity
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:35:9-51
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:35:19-48
+activity#com.example.vinayasd.gatepass.ParentActivity
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:36:9-52
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:36:19-49
+activity#com.example.vinayasd.gatepass.WardenActivity
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:37:9-52
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:37:19-49
+activity#com.example.vinayasd.gatepass.FormActivity
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:38:9-50
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:38:19-47
+activity#com.example.vinayasd.gatepass.GifActivity
+ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:39:9-58
+	android:name
+		ADDED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml:39:19-46
+uses-sdk
+INJECTED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/vinayasd/.android/build-cache/5fdac9776be4ceaa3e175992b10823c5c25306a9/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/vinayasd/.android/build-cache/9552056de2e8cd552ff81bce178adab3153c7f63/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/vinayasd/.android/build-cache/f40e0a9e5c5ec04f8dbcfc7c17e29f758065ba40/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/vinayasd/.android/build-cache/cfce146785b0c377cd856bb5d202914a8af44697/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/vinayasd/.android/build-cache/916b277fbf7e43de3d5e4395b02b536a276f1b7a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/vinayasd/.android/build-cache/b44c2931c4c723c0f570b2443a19d758fdd2903f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/vinayasd/.android/build-cache/1a9c10d9f109ba4f23d204b933d3864956413bd2/output/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/vinayasd/.android/build-cache/c75292fa150c9f218361738e8a8d102a350bc743/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/vinayasd/.android/build-cache/5a4778579aacc658029c310cc10adbdee15082cb/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/vinayasd/.android/build-cache/c76cfa0de4e2dec8ebf1e904fe03fd92cf66d0c5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] /Users/vinayasd/.android/build-cache/57eac75051369fcb13b9681e03778fb6b87434a0/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/vinayasd/.android/build-cache/b21df4723bc40874bf2255cb2056e8398f2f1723/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/vinayasd/.android/build-cache/d9e702cd28bbce437738a62bc08ceede439e271b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/vinayasd/.android/build-cache/671f90f2d5021ad1ba79775556e88f44727c6c38/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/vinayasd/.android/build-cache/b58bb4bbb30b160e92b45814ecf10e54d2dcbd4b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/vinayasd/.android/build-cache/39afe5ab4187dabd6962844be6c01ab807dafb3a/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/vinayasd/.android/build-cache/5fdac9776be4ceaa3e175992b10823c5c25306a9/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinayasd/Desktop/     /GatePass/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/vinayasd/.android/build-cache/5fdac9776be4ceaa3e175992b10823c5c25306a9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/vinayasd/.android/build-cache/9552056de2e8cd552ff81bce178adab3153c7f63/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/vinayasd/.android/build-cache/f40e0a9e5c5ec04f8dbcfc7c17e29f758065ba40/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/vinayasd/.android/build-cache/cfce146785b0c377cd856bb5d202914a8af44697/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/vinayasd/.android/build-cache/916b277fbf7e43de3d5e4395b02b536a276f1b7a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/vinayasd/.android/build-cache/b44c2931c4c723c0f570b2443a19d758fdd2903f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/vinayasd/.android/build-cache/57eac75051369fcb13b9681e03778fb6b87434a0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/vinayasd/.android/build-cache/b21df4723bc40874bf2255cb2056e8398f2f1723/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/vinayasd/.android/build-cache/d9e702cd28bbce437738a62bc08ceede439e271b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/vinayasd/.android/build-cache/671f90f2d5021ad1ba79775556e88f44727c6c38/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/vinayasd/.android/build-cache/b58bb4bbb30b160e92b45814ecf10e54d2dcbd4b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/vinayasd/.android/build-cache/39afe5ab4187dabd6962844be6c01ab807dafb3a/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/vinayasd/.android/build-cache/5fdac9776be4ceaa3e175992b10823c5c25306a9/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/vinayasd/.android/build-cache/5fdac9776be4ceaa3e175992b10823c5c25306a9/output/AndroidManifest.xml:26:9-47

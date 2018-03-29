@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shape"
+    android:padding="10dp"
+    android:layout_marginTop="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width= "match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/reason"
+            android:drawablePadding="16dp"
+            android:drawableTint="@android:color/white"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:id="@+id/recycler_reason_parent"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width= "70dp"
+            android:layout_height="wrap_content"
+            android:text="From:"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:id="@+id/recycler_from_1_parent"/>
+        <TextView
+            android:layout_width= "match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:paddingLeft="10dp"
+            android:textColorHint="@android:color/white"
+            android:id="@+id/recycler_from_2_parent"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width= "70dp"
+            android:layout_height="wrap_content"
+            android:text="To:"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:id="@+id/recycler_to_1_parent"/>
+        <TextView
+            android:layout_width= "match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:id="@+id/recycler_to_2_parent"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width= "wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Accept"
+            android:background="@color/colorAccent"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:id="@+id/recycler_parent_button"
+            android:layout_marginLeft="60dp"/>
+        <Button
+            android:layout_width= "wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Decline"
+            android:background="@color/colorAccent"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:id="@+id/recycler_parent_un_button"
+            android:layout_marginLeft="60dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

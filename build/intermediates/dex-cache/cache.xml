@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/glide-3.7.0_7ef7fbbc151579a0d05c14895fd17f9bcc9701e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_337725ce368406e25b393c0bfbbff2505e7cc780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_eb1591a66df2b40a540b50e69df202876fce7eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_f7d08fd457a859bb7d9cf23a3e5c69e6881a7222.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinayasd/.android/build-cache/c91f06e1722984a71893bf8e2166469d04753007/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f969f3783b5596f5bbbe5591940ce2cc855fa8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_95e70af1668da52c8b3495e4968e3b3d4e14987c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_d356c2dd7940c623d49a29f5fc7cebb1a032e78f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_702ec00f7050d7ec62fd1ce2a51b4f71be043f6b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinayasd/.android/build-cache/1a9c10d9f109ba4f23d204b933d3864956413bd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0388db5d2832b5cc2504bdcdf878034577c59099/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinayasd/.android/build-cache/bd3a718f3a83086a56dd26b82c63b15282f0bd4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30500b49a50de5c4a0b71c07f232058f584cb195/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_b4f1853f859d30941e4de8f0240141dc8f8141aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/sqliteassethelper-2.0.1_b650915d68020fba5c52607bf4a9416a52cea25f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1876fdb5c614de71bf205ef55b4e302a23c3726c">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6df4ef9e9b34186119109caffb5f6467694bdb2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_82bb0a6c3315cbde4c881ed46fb5b7e8c8faa578.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinayasd/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/transforms/dex/debug/folders/1000/10/sqliteassethelper-2.0.1_b650915d68020fba5c52607bf4a9416a52cea25f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_6c299c0b1f76d32ca3a55899df7a5cd6efd8bbfd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinayasd/.android/build-cache/649f632c58894217741184b93378d88fa72a6005/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b1f2d3c1e08506dc35f8956915211e601f16d49/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_61e3a96acd411c4067fe90b496150e3da0f79096.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c49e0d040901ff2736a9c493cdb30606e254328d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinayasd/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_7ef7fbbc151579a0d05c14895fd17f9bcc9701e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_cea905b45a2370aea2663c2296802bd00bac5ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_ad1dc27ae448eca17454df2850f1233317850389.jar" />
+    </item>
+
+</items>

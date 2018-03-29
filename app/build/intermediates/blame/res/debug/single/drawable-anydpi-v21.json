@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/room.xml",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-anydpi-v21/room.xml"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/vinayasd/.android/build-cache/5fdac9776be4ceaa3e175992b10823c5c25306a9/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/vinayasd/.android/build-cache/5fdac9776be4ceaa3e175992b10823c5c25306a9/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/pls.xml",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-anydpi-v21/pls.xml"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/phone.xml",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-anydpi-v21/phone.xml"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/logout.xml",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-anydpi-v21/logout.xml"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_lock_outline_24dp.xml",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_lock_outline_24dp.xml"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/home.xml",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-anydpi-v21/home.xml"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/time.xml",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-anydpi-v21/time.xml"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_user_24dp.xml",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_user_24dp.xml"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/reason.xml",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-anydpi-v21/reason.xml"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/date.xml",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-anydpi-v21/date.xml"
+    }
+]

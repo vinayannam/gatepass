@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/reason.png",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-xxxhdpi/reason.png"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/logout.png",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-xxxhdpi/logout.png"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_user_24dp.png",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_user_24dp.png"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/time.png",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-xxxhdpi/time.png"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/room.png",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-xxxhdpi/room.png"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/home.png",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-xxxhdpi/home.png"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/phone.png",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-xxxhdpi/phone.png"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/date.png",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-xxxhdpi/date.png"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_lock_outline_24dp.png",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_lock_outline_24dp.png"
+    },
+    {
+        "merged": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/pls.png",
+        "source": "/Users/vinayasd/Desktop/     /GatePass/app/build/generated/res/pngs/debug/drawable-xxxhdpi/pls.png"
+    }
+]

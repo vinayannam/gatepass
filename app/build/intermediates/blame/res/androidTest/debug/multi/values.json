@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/vinayasd/Desktop/     /GatePass/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/vinayasd/.android/build-cache/bec2769f16da9cf73a7becf2c3ac2e47d3fa9e0c/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 45,
+                        "endOffset": 328
+                    }
+                }
+            }
+        ]
+    }
+]
